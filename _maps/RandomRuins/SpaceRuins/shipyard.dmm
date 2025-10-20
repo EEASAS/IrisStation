@@ -1,0 +1,1251 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ak" = (
+/obj/effect/turf_decal/stripes/corner,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = 3
+	},
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = -11;
+	pixel_y = -7
+	},
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = -7;
+	pixel_y = 3
+	},
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = 2;
+	pixel_y = -10
+	},
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = 10;
+	pixel_y = 6
+	},
+/obj/item/ammo_box/magazine/smgm45/empty{
+	pixel_x = -19;
+	pixel_y = -9
+	},
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"aF" = (
+/obj/machinery/power/port_gen/pacman,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"bh" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/fuel_pool/hivis,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"bj" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/sign/clock/directional/west,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"cc" = (
+/obj/structure/window/spawner/directional/west,
+/obj/structure/window/spawner/directional/south,
+/obj/effect/turf_decal/box,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"ce" = (
+/obj/machinery/door/airlock/hatch,
+/obj/effect/mapping_helpers/airlock/cyclelink_helper_multi{
+	cycle_id = "stlink"
+	},
+/obj/effect/mapping_helpers/airlock/welded,
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"ex" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"eK" = (
+/obj/structure/railing,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"ge" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/has_grav/shipyard)
+"gp" = (
+/obj/structure/fans/tiny,
+/obj/machinery/door/airlock/hatch,
+/obj/effect/mapping_helpers/airlock/cyclelink_helper_multi{
+	cycle_id = "stlink"
+	},
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"gs" = (
+/turf/closed/mineral/random/asteroid,
+/area/ruin/space/has_grav/shipyard)
+"gS" = (
+/obj/effect/decal/fakelattice/passthru,
+/obj/machinery/power/rtg,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"hG" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = -7;
+	pixel_y = 3
+	},
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = 10;
+	pixel_y = 6
+	},
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = 2;
+	pixel_y = -10
+	},
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = -11;
+	pixel_y = -9
+	},
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = -2;
+	pixel_y = -3
+	},
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"ih" = (
+/obj/structure/billboard/nanotrasen/defaced{
+	pixel_y = 10
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/shipyard)
+"iW" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 10
+	},
+/obj/effect/decal/cleanable/fuel_pool/hivis,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"jg" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"kp" = (
+/obj/structure/billboard/twenty_four_seven{
+	pixel_y = 10
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/shipyard)
+"mi" = (
+/obj/machinery/door/airlock/external/ruin,
+/obj/effect/mapping_helpers/airlock/locked,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"na" = (
+/obj/machinery/light/small/directional/south,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"nm" = (
+/obj/structure/bonfire/prelit,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"nr" = (
+/obj/structure/closet/crate/secure/centcom{
+	req_access = "cent_general"
+	},
+/obj/item/disk/nuclear/fake,
+/obj/item/grenade/frag/mega,
+/obj/item/storage/belt/utility/chief/full,
+/obj/machinery/light/small/dim/directional/east,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"nN" = (
+/obj/effect/decal/fakelattice/passthru,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"ox" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/table,
+/obj/item/syndicatedetonator,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"oZ" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/table,
+/obj/machinery/microwave{
+	pixel_y = 6;
+	anchored_tabletop_offset = 0;
+	pixel_x = 2
+	},
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"pf" = (
+/obj/machinery/power/shuttle_engine/propulsion{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"pi" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/machinery/light/small/directional/east,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/table,
+/obj/structure/sign/clock/directional/east,
+/turf/open/floor/iron/large,
+/area/ruin/space/has_grav/shipyard)
+"pJ" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"pO" = (
+/obj/structure/cable,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"qb" = (
+/obj/machinery/door/airlock/engineering{
+	name = "Maintenance"
+	},
+/obj/effect/turf_decal/delivery,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"qr" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/newscaster/directional/south,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"qS" = (
+/obj/machinery/light/small/dim/directional/west,
+/obj/machinery/suit_storage_unit/industrial,
+/obj/effect/turf_decal/delivery,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"ra" = (
+/obj/machinery/light/small/dim/directional/north,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"rq" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/fuel_pool/hivis,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"ry" = (
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"rz" = (
+/obj/structure/shipping_container/nakamura,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"rO" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 5
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"sm" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"sp" = (
+/obj/machinery/computer/terminal{
+	dir = 4
+	},
+/obj/structure/window/spawner/directional/west,
+/obj/effect/turf_decal/box,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"vi" = (
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/shipyard)
+"vr" = (
+/obj/item/stack/sheet/mineral/uranium/five,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"vw" = (
+/obj/structure/railing{
+	dir = 10
+	},
+/obj/structure/bonfire/prelit,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"wu" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"wH" = (
+/obj/effect/mob_spawn/corpse/human/factory,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"wY" = (
+/obj/machinery/light/small/directional/east,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"xO" = (
+/obj/structure/window/reinforced/spawner/directional/north,
+/obj/machinery/power/shuttle_engine/propulsion/right{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"yg" = (
+/obj/machinery/porta_turret/syndicate/toolbox/mag_fed/colonist/malf,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"yi" = (
+/obj/structure/fans/tiny/forcefield,
+/obj/effect/turf_decal/delivery,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"zb" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"zf" = (
+/obj/machinery/light/small/directional/west,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Bq" = (
+/obj/effect/spawner/random/trash/hobo_squat,
+/obj/machinery/light/broken/directional/west,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"Cl" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/ammo_box/magazine/smgm45/empty{
+	pixel_x = -19;
+	pixel_y = -9
+	},
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Co" = (
+/obj/structure/reagent_dispensers/fueltank,
+/obj/effect/turf_decal/box,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Cy" = (
+/obj/structure/sign/warning/radiation/directional/north,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"CM" = (
+/obj/structure/cable,
+/obj/machinery/power/apc/auto_name/directional/west,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"CT" = (
+/obj/effect/decal/cleanable/fuel_pool/hivis,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"DA" = (
+/obj/effect/mob_spawn/corpse/human/factory,
+/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"Ec" = (
+/obj/structure/closet/toolcloset,
+/obj/effect/turf_decal/box,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/sign/warning/radiation/directional/north,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Em" = (
+/obj/structure/cable,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/catwalk_floor,
+/area/ruin/space/has_grav/shipyard)
+"EU" = (
+/obj/machinery/power/emitter{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"EY" = (
+/obj/machinery/power/port_gen/pacman/super,
+/obj/machinery/light/small/dim/directional/north,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"Fl" = (
+/obj/machinery/power/rtg/portable,
+/obj/structure/cable,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/catwalk_floor,
+/area/ruin/space/has_grav/shipyard)
+"FC" = (
+/obj/effect/spawner/random/trash/hobo_squat,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"FD" = (
+/obj/structure/railing,
+/obj/machinery/power/port_gen/pacman,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"FK" = (
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"FT" = (
+/turf/closed/wall/mineral/titanium/nodiagonal,
+/area/ruin/space/has_grav/shipyard)
+"Go" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"Gq" = (
+/turf/template_noop,
+/area/template_noop)
+"GA" = (
+/obj/effect/mob_spawn/corpse/human/factory,
+/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/paper/crumpled{
+	default_raw_text = "What's a crate from CentCom doing here? Can't get the lock on it either. I assume it needs to be broke open."
+	},
+/obj/machinery/light/small/dim/directional/north,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"GQ" = (
+/obj/structure/cable,
+/obj/item/stack/sheet/mineral/uranium/five,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"GZ" = (
+/obj/structure/window/spawner/directional/west,
+/obj/structure/window/spawner/directional/north,
+/obj/effect/turf_decal/box,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Hn" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"Ij" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/sticker/syndicate{
+	pixel_x = -28;
+	pixel_y = 5
+	},
+/obj/item/sticker/syndicate/op{
+	pixel_x = -36;
+	pixel_y = -8
+	},
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Iv" = (
+/obj/effect/spawner/random/structure/crate_abandoned,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"Kb" = (
+/obj/machinery/porta_turret/syndicate/toolbox/mag_fed/duster/malf{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"Lj" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = -2;
+	pixel_y = -3
+	},
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"LO" = (
+/obj/structure/chair/plastic{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"LQ" = (
+/obj/effect/turf_decal/stripes/corner,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Mt" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/light_switch/directional/east,
+/obj/structure/table,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"MR" = (
+/obj/structure/closet/toolcloset,
+/obj/effect/turf_decal/box,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Nd" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Ne" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/fuel_pool/hivis,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/closet/secure_closet/freezer/fridge/all_access,
+/obj/effect/turf_decal/box,
+/obj/item/reagent_containers/cup/soda_cans/nova/welding_fizz,
+/obj/item/reagent_containers/cup/soda_cans/dr_gibb,
+/obj/item/reagent_containers/cup/soda_cans/beer/rice,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"NH" = (
+/obj/structure/closet/crate/trashcart/filled,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"NO" = (
+/obj/machinery/power/shuttle_engine/propulsion{
+	dir = 8
+	},
+/obj/structure/railing,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"NQ" = (
+/obj/machinery/power/shuttle_engine/heater{
+	dir = 8
+	},
+/turf/closed/wall/mineral/titanium/nodiagonal,
+/area/ruin/space/has_grav/shipyard)
+"Os" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 1
+	},
+/obj/effect/spawner/random/trash/deluxe_garbage,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"OD" = (
+/obj/item/stack/sheet/mineral/plasma/fifty,
+/obj/structure/closet/crate/secure/plasma,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"OH" = (
+/obj/machinery/power/shuttle_engine/propulsion,
+/obj/machinery/light/small/dim/directional/north,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"Ps" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/machinery/computer/mech_bay_power_console{
+	dir = 4
+	},
+/obj/effect/turf_decal/bot,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"PB" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 6
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"Qc" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"Qt" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 9
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Re" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Sc" = (
+/obj/structure/shipping_container/orange,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"Ss" = (
+/obj/effect/spawner/random/trash/crushed_can{
+	pixel_x = 9
+	},
+/obj/effect/spawner/random/trash/crushed_can{
+	pixel_x = 2;
+	pixel_y = 7
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = 10;
+	pixel_y = 6
+	},
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = 3
+	},
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = -7;
+	pixel_y = 3
+	},
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = -11;
+	pixel_y = -7
+	},
+/obj/item/ammo_casing/c45/spent{
+	pixel_x = 2;
+	pixel_y = -10
+	},
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Tv" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/vehicle/sealed/mecha/ripley/mk2,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/recharge_floor,
+/area/ruin/space/has_grav/shipyard)
+"TL" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/machinery/mech_bay_recharge_port{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"Va" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/mapping_helpers/turn_off_lights_with_lightswitch,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"VE" = (
+/obj/effect/spawner/random/trash/garbage,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Wf" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 4
+	},
+/turf/closed/mineral/random/asteroid,
+/area/ruin/space/has_grav/shipyard)
+"Wh" = (
+/obj/effect/turf_decal/stripes/line,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/shipyard)
+"Wz" = (
+/obj/structure/closet/crate/secure/weapon{
+	req_access = "away_sec"
+	},
+/obj/item/gun/energy/laser/hellgun,
+/obj/item/mecha_parts/mecha_equipment/weapon/energy/laser/heavy,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+"Xo" = (
+/obj/machinery/door/poddoor{
+	name = "Shipyard Tango Shutters";
+	id = "stshutters"
+	},
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/plating/airless,
+/area/ruin/space/has_grav/shipyard)
+"XW" = (
+/turf/open/misc/asteroid/airless,
+/area/ruin/space/has_grav/shipyard)
+"Zo" = (
+/turf/open/floor/plating,
+/area/ruin/space/has_grav/shipyard)
+
+(1,1,1) = {"
+Gq
+Gq
+Gq
+Gq
+Gq
+gs
+gs
+XW
+XW
+gs
+gs
+Gq
+Gq
+Gq
+Gq
+Gq
+Gq
+Gq
+Gq
+Gq
+"}
+(2,1,1) = {"
+Gq
+Gq
+Gq
+Gq
+Gq
+gs
+ge
+gp
+gp
+ge
+gs
+gs
+gs
+gs
+gs
+gs
+Gq
+Gq
+Gq
+Gq
+"}
+(3,1,1) = {"
+Gq
+Gq
+Gq
+Gq
+Gq
+gs
+ge
+ra
+sm
+ge
+gs
+gs
+gs
+gs
+gs
+Wf
+gs
+gs
+gs
+Gq
+"}
+(4,1,1) = {"
+Gq
+Gq
+Gq
+Gq
+Gq
+gs
+ge
+Kb
+sm
+ge
+ge
+ge
+ge
+ge
+ge
+ge
+ge
+gs
+gs
+kp
+"}
+(5,1,1) = {"
+Gq
+Gq
+Gq
+Gq
+Gq
+gs
+ge
+ce
+ce
+ge
+CT
+Bq
+OD
+bj
+zf
+wH
+ge
+gs
+gs
+Gq
+"}
+(6,1,1) = {"
+Gq
+Gq
+Gq
+Gq
+gs
+gs
+ge
+ry
+CT
+Zo
+LQ
+ex
+ex
+ex
+Qc
+pJ
+ge
+gs
+gs
+vi
+"}
+(7,1,1) = {"
+Gq
+Gq
+Gq
+Gq
+gs
+ge
+ge
+zb
+wu
+ak
+PB
+FK
+mi
+xO
+rO
+rq
+ge
+gs
+gs
+Gq
+"}
+(8,1,1) = {"
+Gq
+Gq
+Gq
+Gq
+gs
+ge
+EY
+vw
+Tv
+Wh
+nN
+NQ
+Iv
+NQ
+gS
+Re
+ge
+gs
+gs
+Gq
+"}
+(9,1,1) = {"
+Gq
+Gq
+Gq
+Gq
+gs
+ge
+Sc
+eK
+TL
+Nd
+iW
+FT
+Go
+FT
+Qt
+bh
+ge
+gs
+gs
+Gq
+"}
+(10,1,1) = {"
+Gq
+Gq
+Gq
+gs
+gs
+ge
+sm
+NO
+Ps
+pJ
+Wh
+FT
+Hn
+FT
+Re
+Ss
+ge
+gs
+gs
+Gq
+"}
+(11,1,1) = {"
+Gq
+Gq
+Gq
+gs
+ge
+ge
+sm
+eK
+Re
+DA
+Nd
+jg
+jg
+Ij
+Os
+NH
+ge
+gs
+gs
+ih
+"}
+(12,1,1) = {"
+Gq
+Gq
+Gq
+gs
+ge
+pf
+sm
+sm
+Re
+CT
+pJ
+GZ
+sp
+cc
+pJ
+VE
+ge
+gs
+gs
+Gq
+"}
+(13,1,1) = {"
+Gq
+Gq
+gs
+gs
+ge
+OH
+sm
+rz
+Re
+Zo
+pJ
+Lj
+CT
+Zo
+pJ
+qr
+ge
+gs
+gs
+vi
+"}
+(14,1,1) = {"
+Gq
+gs
+gs
+gs
+ge
+aF
+sm
+sm
+Ne
+Va
+pJ
+Zo
+pJ
+pJ
+CT
+na
+ge
+ge
+gs
+Gq
+"}
+(15,1,1) = {"
+Gq
+gs
+gs
+gs
+ge
+ra
+sm
+sm
+oZ
+LO
+pJ
+CT
+pJ
+nm
+pJ
+CT
+yi
+Xo
+XW
+Gq
+"}
+(16,1,1) = {"
+Gq
+gs
+gs
+gs
+ge
+EU
+Wz
+FD
+pi
+Mt
+ox
+Zo
+Co
+pJ
+Zo
+pJ
+yi
+Xo
+XW
+Gq
+"}
+(17,1,1) = {"
+gs
+gs
+gs
+gs
+ge
+Hn
+Hn
+ge
+ge
+ge
+MR
+pJ
+Co
+Cl
+CT
+FC
+yi
+Xo
+XW
+Gq
+"}
+(18,1,1) = {"
+gs
+gs
+gs
+gs
+ge
+Em
+Fl
+CM
+qS
+ge
+Ec
+pJ
+CT
+Zo
+pJ
+Zo
+yi
+Xo
+XW
+Gq
+"}
+(19,1,1) = {"
+gs
+gs
+gs
+gs
+ge
+GA
+vr
+pO
+hG
+qb
+pJ
+pJ
+FC
+pJ
+pJ
+pJ
+yi
+Xo
+XW
+Gq
+"}
+(20,1,1) = {"
+gs
+gs
+gs
+gs
+ge
+Fl
+Em
+GQ
+sm
+ge
+Cy
+pJ
+Zo
+Zo
+yg
+Zo
+yi
+Xo
+XW
+Gq
+"}
+(21,1,1) = {"
+Gq
+Gq
+gs
+gs
+ge
+ge
+ge
+ge
+nr
+ge
+pJ
+wY
+pJ
+pJ
+wY
+pJ
+yi
+Xo
+XW
+Gq
+"}
+(22,1,1) = {"
+Gq
+Gq
+Gq
+gs
+gs
+gs
+gs
+ge
+ge
+ge
+ge
+ge
+ge
+ge
+ge
+ge
+ge
+ge
+gs
+Gq
+"}
+(23,1,1) = {"
+Gq
+Gq
+Gq
+Gq
+Gq
+Gq
+gs
+gs
+gs
+gs
+gs
+gs
+gs
+gs
+gs
+gs
+gs
+gs
+gs
+Gq
+"}
+(24,1,1) = {"
+Gq
+Gq
+Gq
+Gq
+Gq
+Gq
+Gq
+Gq
+Gq
+Gq
+Gq
+gs
+gs
+gs
+gs
+gs
+gs
+Gq
+Gq
+Gq
+"}
